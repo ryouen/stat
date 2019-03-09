@@ -1,23 +1,6 @@
-# Initial page
+# ゼロから学ぶ、機械学習のための、統計学
 
-## Getting Super Powers
-
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
+このページでは、統計を簡単に、グラフィカルに学んでいきます。
+著者は、PythonとRStudioを使っており、利用しているファイルはすべて、こちらの[Githubレポジトリ](https://github.com/ryouen/stat/)からダウンロードが可能です。
 
 
