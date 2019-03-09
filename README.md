@@ -1,2 +1,6 @@
-# stat
-easy to learn statistics
+# ゼロから学ぶ、機械学習のための、統計学
+
+このページでは、統計を簡単に、グラフィカルに学んでいきます。
+著者は、PythonとRStudioを使っており、利用しているファイルはすべて、こちらの[Githubレポジトリ](https://github.com/ryouen/stat/)からダウンロードが可能です。
+
+
