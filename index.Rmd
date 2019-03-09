@@ -23,7 +23,8 @@ monofont: Meiryo
 ---
 
 
-```{r include=FALSE}#install.packages("bookdown")
+```{r include=FALSE}
+#install.packages("bookdown")
 #install.packages("rmarkdown")
 #install.packages("knitr")
 #install.packages("devtools", dependencies = TRUE)
