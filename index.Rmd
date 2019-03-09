@@ -1,0 +1,45 @@
+---
+title: '機械学習のための、ゼロからはじめる統計のお話'
+author: '石井 遼介 / @ryouen'
+date: "March 8, 2019"
+output:
+  bookdown::gitbook: default
+  html_document:  
+    latex_engine: xelatex
+    df_print: paged
+    toc: no
+    toc_depth: '2'
+  pdf_document:
+#    latex_engine: xelatex
+    df_print: kable
+    number_sections: yes
+    toc: no
+    toc_depth: 2
+fontsize: 11pt
+#bibliography: mybibfile.bib
+mainfont: Meiryo
+monofont: Meiryo
+---
+
+
+```{r}
+#install.packages("bookdown")
+#install.packages("rmarkdown")
+#install.packages("knitr")
+#install.packages("devtools", dependencies = TRUE)
+#install.packages("reticulate") #このパッケージを使うと、'''{python} チャンクでPythonを実行する時、チャンクをまたいだ処理も可能になる
+#devtools::install_github("rstudio/rmarkdown")
+library(bookdown)
+library(rmarkdown)
+library(knitr)
+library(reticulate)
+```
+
+#ゼロから学ぶ、機械学習のための、統計学
+テキストテキスト
+
+#回帰分析
+
+##回帰分析とは
+
+##線形回帰
