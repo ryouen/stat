@@ -35,16 +35,11 @@ library(rmarkdown)
 library(knitr)
 library(reticulate)
 ```
-# index
 
-In this book, we will introduce an interesting
-method.
-
-
-#ゼロから学ぶ、機械学習のための、統計学
-テキストテキスト
 
 #回帰分析
+
+回帰分析について学んでいきましょう！
 
 ##回帰分析とは
 
